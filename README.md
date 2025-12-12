@@ -242,15 +242,6 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
 
 ## 10\. แผนการดำเนินงาน (Work Plan & Timeline)
-
-ระบุตามสัปดาห์หรือ Phase เช่น
-
-* Phase 1: Data Preparation  
-* Phase 2: Modeling  
-* Phase 3: Prototype  
-* Phase 4: Testing & Evaluation  
-* ควรมี Gantt Chart (ถ้ามี)
-
 ## 
 
 <img width="667" height="192" alt="แผนการดำเนินงาน (Work Plan   Timeline)" src="https://github.com/user-attachments/assets/03c6b239-55e1-4935-b072-ab2bd01a9248" />
@@ -288,12 +279,7 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 * Platform:  Web, Mobile  
 * Open API: Google API, Weather API, Map ฯลฯ
 
-## 13\. งบประมาณ (ถ้าจำเป็น)
-
-ในโครงงานนักศึกษาอาจรวมถึง:
-
-* ค่า Cloud (ถ้าใช้)  
-* ค่า API Credits
+## 13\. งบประมาณ 
 
 | รายการค่าใช้จ่าย | ลักษณะการคิดเงิน | ระดับเริ่มต้น/โครงการขนาดเล็ก (ต่อเดือน) |
 | :---- | :---- | :---- |
@@ -302,8 +288,6 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 | **Database (SQL/NOSQL)** | ตามขนาด Instance และพื้นที่เก็บข้อมูล | $15 \- 30 USD (Cloud SQL Instance ขนาดเล็ก) |
 | **Vector DB / Storage** | ตามปริมาณข้อมูล (GB) | 1 \- 10 USD |
 | **รวมโดยประมาณ** |  | **21 \- 90 USD** |
-
-หากไม่มีค่าใช้จ่าย ให้ระบุว่า “ไม่ใช้งบประมาณ”
 
 ## 14\. เอกสารอ้างอิง (References)
 
