@@ -171,7 +171,9 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
 ### 8.1 ระบบหรือสถาปัตยกรรมเบื้องต้น
 
-แผนผัง: Data → Model → Application![][image1]
+แผนผัง: Data → Model → Application
+
+<img width="666" height="82" alt="แนวทางทางเทคนิค" src="https://github.com/user-attachments/assets/40489c71-3982-40f7-86e8-ba5c4ec77ff4" />
 
 ### 8.2 การเลือกโมเดล/อัลกอริทึม
 
@@ -219,15 +221,18 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
    ## **2\. System Flow Diagram**
 
-   ![][image2]
+   <img width="899" height="695" alt="System Flow Diagram" src="https://github.com/user-attachments/assets/ad577501-69a1-4f54-b5e4-73779f5d8f96" />
 
-![][image3]
+
+<img width="888" height="244" alt="System Flow Diagram2" src="https://github.com/user-attachments/assets/30483d2a-49c7-408e-92c3-200c12f985da" />
+
 
 ## 
 
 ## **3\. UI/UX Wireframe**
 
-![][image4]
+<img width="925" height="704" alt="UIUX Wireframe" src="https://github.com/user-attachments/assets/85e7382e-1f2b-4f9d-aca4-699b16741571" />
+
 
 ## **4.ตัวอย่างหน้าจอ**
 
@@ -249,13 +254,7 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
 ## 
 
-| แผนการดำเนินงาน | ไตรมาส 1 |  |  | ไตรมาส 2 |  |  | ไตรมาส 3 |  |  | ไตรมาส 4 |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ----- |
-|  | ม.ค. | ก.พ. | มี.ค. | เม.ย. | พ.ค. | มิ.ย. | ก.ค. | ส.ค. | ก.ย. | ต.ค. | พ.ย. | ธ.ค. |
-| Data Preparation |  |  |  |  |  |  |  |  |  |  |  |  |
-| Modeling |  |  |  |  |  |  |  |  |  |  |  |  |
-| Prototype |  |  |  |  |  |  |  |  |  |  |  |  |
-| Testing & Evaluation  |  |  |  |  |  |  |  |  |  |  |  |  |
+<img width="667" height="192" alt="แผนการดำเนินงาน (Work Plan   Timeline)" src="https://github.com/user-attachments/assets/03c6b239-55e1-4935-b072-ab2bd01a9248" />
 
 # 
 
