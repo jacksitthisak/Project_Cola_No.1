@@ -231,9 +231,11 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
 ## **4.ตัวอย่างหน้าจอ**
 
-**![][image5]**
+<img width="375" height="690" alt="ตัวอย่างหน้าจอฝั่งผู้ใช้" src="https://github.com/user-attachments/assets/5135aab9-3e37-4b54-8730-c67c288fff73" />
 
-**![][image6]**
+
+<img width="981" height="749" alt="ตัวอย่างหน้าจอฝั่งเจ้าหน้าที่" src="https://github.com/user-attachments/assets/444aac5f-d038-4827-bf75-af629cea391e" />
+
 
 ## 10\. แผนการดำเนินงาน (Work Plan & Timeline)
 
