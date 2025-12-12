@@ -171,7 +171,6 @@ Chatbot ให้คำปรึกษาและรับเรื่องร
 
 ### 8.1 ระบบหรือสถาปัตยกรรมเบื้องต้น
 
-แผนผัง: Data → Model → Application
 
 <img width="666" height="82" alt="แนวทางทางเทคนิค" src="https://github.com/user-attachments/assets/40489c71-3982-40f7-86e8-ba5c4ec77ff4" />
 
